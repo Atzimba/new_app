@@ -1,0 +1,80 @@
+{
+
+	"HTMLFileName":"banner.html",
+	"pref__general__AutoKeyframeProperties":"true",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"pixelsPerMs":"0.2",
+	"PubChromeFrameInstallerPrompt":"none",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"PubUseChromeFrameInstaller":"false",
+	"viewStartMs":"-25",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"symbol_stage":{
+		"dummyStageParentWidth":"320px",
+		"dummyStageParentHeight":"50px",
+		"element_${_yellow}":{
+			"timelineColor2":"0x81aa62",
+			"invisible":"false",
+			"timelineColor":"0x91c767",
+			"animationEnabled":"true",
+			"timelineColor3":"0x5b6c4d"},
+		"element_${_banner_azul}":{
+			"timelineColor2":"0x326a96",
+			"invisible":"true",
+			"timelineColor":"0x2f73ad",
+			"animationEnabled":"false",
+			"timelineColor3":"0x385063"},
+		"defaultStageParentHeight":"50px",
+		"element_${_banner_amarillo}":{
+			"timelineColor2":"0x168c84",
+			"invisible":"true",
+			"timelineColor":"0x00a096",
+			"animationEnabled":"false",
+			"timelineColor3":"0x2a605c"},
+		"element_${_blue}":{
+			"timelineColor2":"0x4fa275",
+			"invisible":"false",
+			"timelineColor":"0x50bd82",
+			"animationEnabled":"true",
+			"timelineColor3":"0x456a55"},
+		"defaultStageParentWidth":"320px",
+		"element_${_banner_rojo}":{
+			"timelineColor2":"0x1095d2",
+			"invisible":"false",
+			"timelineColor":"0x00a9fa",
+			"animationEnabled":"true",
+			"timelineColor3":"0x29647e"},
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"element_${_red}":{
+			"timelineColor2":"0x1aa38f",
+			"invisible":"false",
+			"timelineColor":"0x00bda4",
+			"animationEnabled":"true",
+			"timelineColor3":"0x2a6a61"}},
+	"TransitionIdCounter":"25",
+	"CompZoomFactor":"100",
+	"viewStartY":"0",
+	"colorSwatches":"rgba(242,198,16,1.00)|rgba(93,173,226,1.00)|rgba(231,77,61,1.00)",
+	"usedBOM":"false",
+	"nextElementColorIndex":"8",
+	"stage-Default Timeline_playhead_ms":"2000",
+	"stage-Default Timeline_mark_ms":"-1",
+	"StageZoomFactor":"100",
+	"pref__general__GenerateSmoothTransitions":"true"}
